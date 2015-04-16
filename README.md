@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 First of all, I'm going to start by apologizing to everyone responsible
 for authoring these themes.  I do not know all of your names, so until
 I've managed to dig through every single file of all of them and locate
@@ -53,6 +53,7 @@ TODO:
 - Add appropriate credits for all items.
 - Add larger Elegant Brit wallpaper pack
 - Find/Create Elegant Brit icons
+- Create Elegant Brit themes for every WM/DE I can find
 =======
 # elebrit
 Everything Elegant Brit
