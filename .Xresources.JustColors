@@ -1,0 +1,53 @@
+! Eduted to include JUST the colors for those who don't wish to 
+! replace their whole ~/.Xresources, or still use ~/.Xdefaults
+*colorIT:                             #E3AB8D
+*colorBD:                             #F0E5DF
+*colorUL:                             #cd546c
+*VT100.colorBDMode:                   true
+*VT100.colorBD:                       red
+*VT100.colorULMode:                   true
+*VT100.colorUL:                       magenta
+*VT100.veryBoldColors:                6
+
+
+!special
+*background: #262729
+*foreground: #CECECE
+*cursorColor: #a0a0a0
+
+!black
+*color0: #404040
+*color8: #606060
+
+!red
+*color1: #8F0100
+*color9: #C8000F
+
+!green
+*color2: #408F00
+*color10: #aabb99
+
+!yellow
+*color3: #FF0000
+*color11: #E04613
+
+!blue
+*color4: #188ED8
+*color12: #73B6D0
+
+!magenta
+*color5: #AF80AE
+*color13: #784F79
+
+!cyan
+*color6: #0098A0
+*color14: #42DADD
+
+!white
+*color7: #CECECE
+*color15: #FAFAFA
+
+!Colored man pages
+!URxvt.colorIT:  #9f8fbc
+!URxvt.colorBD:  #9bc4bd
+!URxvt.colorUL:  #b7ce42
